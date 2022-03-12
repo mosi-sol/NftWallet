@@ -20,7 +20,7 @@ contract NftWallet{
         // require(check owner)
         require(spender != address(0), "i hate to burn nft`s");
         nft.transferFrom(address(this), spender, id);
-        owner[covrage] = address(0); // need to edit, problem here or check console maybe work
+        owner[covrage] = address(0); 
     }
 }
 
