@@ -1,0 +1,2 @@
+# NftWallet
+NFT Safe Wallet
