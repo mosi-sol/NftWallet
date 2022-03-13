@@ -7,7 +7,8 @@ NFT Safe Wallet
 - - just approve for this contract for receive
 - ver 2 => private users
 - - set more security for spending &+ approveall = true
-- ver 3 => self only
+- ver 3 => time trail
+- - spend aftr 1 week
 
 ##
 
