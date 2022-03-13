@@ -4,7 +4,9 @@ NFT Safe Wallet
 ##
 
 - ver 1 => public users
+- - just approve for this contract for receive
 - ver 2 => private users
+- - set more security for spending &+ approveall = true
 - ver 3 => self only
 
 ##
