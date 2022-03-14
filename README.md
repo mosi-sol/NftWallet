@@ -16,7 +16,7 @@ NFT Safe Wallet
     </td>
   </tr>
   <tr>
-    <td>just approve for this contract for receive</td>
+    <td>just approve to this contract for receive</td>
     <td>set more security for spending &+ approveall = true</td>
     <td>spend releasing/unlock aftr 1 week</td>
   </tr>
