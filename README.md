@@ -3,12 +3,25 @@ NFT Safe Wallet
 
 ##
 
-- ver 1 => public users
-- - just approve for this contract for receive
-- ver 2 => private users
-- - set more security for spending &+ approveall = true
-- ver 3 => time trail
-- - spend aftr 1 week
+<table>
+  <tr>
+    <td>
+    ver 1 => public users
+    </td>
+    <td>
+    ver 2 => private users
+    </td>
+    <td>
+    ver 3 => time trail
+    </td>
+  </tr>
+  <tr>
+    <td>just approve for this contract for receive</td>
+    <td>set more security for spending &+ approveall = true</td>
+    <td>spend releasing/unlock aftr 1 week</td>
+  </tr>
+</table>
+  
 
 ##
 
