@@ -11,14 +11,22 @@ NFT Safe Wallet
     <td>
     ver 2 => private users
     </td>
-    <td>
-    ver 3 => time trail
-    </td>
   </tr>
   <tr>
     <td>just approve to this contract for receive</td>
     <td>set more security for spending &+ approveall = true</td>
+  </tr>
+  
+  <tr>
+    <td>
+    ver 3 => time trail
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td>spend releasing/unlock aftr 1 week</td>
+    <td></td>
   </tr>
   
   <tr>
@@ -28,13 +36,9 @@ NFT Safe Wallet
     <td>
     ---
     </td>
-    <td>
-    ---
-    </td>
   </tr>
   <tr>
     <td>simple list & sell/buy nft smartcontract. like a market/shop but controled by owner/artist/collector !</td>
-    <td></td>
     <td></td>
   </tr>
 </table>
