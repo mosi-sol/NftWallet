@@ -23,17 +23,17 @@ NFT Safe Wallet
   
   <tr>
     <td>
-    ver 4
+    Trade NFT
     </td>
     <td>
-    ver 5
+    ---
     </td>
     <td>
-    ver 6
+    ---
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>simple list & sell/buy nft smartcontract. like a market/shop but controled by owner/artist/collector !</td>
     <td></td>
     <td></td>
   </tr>
