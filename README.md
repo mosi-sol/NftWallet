@@ -20,6 +20,23 @@ NFT Safe Wallet
     <td>set more security for spending &+ approveall = true</td>
     <td>spend releasing/unlock aftr 1 week</td>
   </tr>
+  
+  <tr>
+    <td>
+    ver 4
+    </td>
+    <td>
+    ver 5
+    </td>
+    <td>
+    ver 6
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
   
 
