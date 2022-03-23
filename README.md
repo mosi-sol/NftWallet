@@ -3,6 +3,10 @@ NFT Safe Wallet
 
 ##
 
+wiki of project = https://github.com/mosi-sol/NftWallet/wiki
+
+##
+
 <a href="https://www.producthunt.com/posts/nft-decentralized-safe-wallet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nft&#0045;decentralized&#0045;safe&#0045;wallet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=337357&theme=light" alt="NFT&#0032;Decentralized&#0032;Safe&#0032;Wallet - solidity&#0044;&#0032;smart&#0032;contract&#0044;&#0032;ui&#0044;&#0032;ux&#0044;&#0032;nft&#0044;&#0032;wallet | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ##
