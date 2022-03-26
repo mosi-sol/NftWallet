@@ -3,7 +3,7 @@ NFT Safe Wallet
 
 ##
 
-wiki of project = https://github.com/mosi-sol/NftWallet/wiki
+wiki of project = [here](https://github.com/mosi-sol/NftWallet/wiki)
 
 ##
 
@@ -49,6 +49,10 @@ wiki of project = https://github.com/mosi-sol/NftWallet/wiki
   </tr>
 </table>
   
+##
+
+### erc721 sample
+- simple nft erc721 smartcontract included nft wallet -> [here](https://github.com/mosi-sol/erc721/tree/main/v4)
 
 ##
 
