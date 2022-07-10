@@ -11,43 +11,16 @@ wiki of project = [here](https://github.com/mosi-sol/NftWallet/wiki)
 
 ##
 
-<table>
-  <tr>
-    <td>
-    ver 1 => public users
-    </td>
-  </tr>
-  <tr>
-    <td>just approve to this contract for receive</td>
-  </tr>
-  
-  <tr>
-    <td>
-    ver 2 => private users
-    </td>
-  </tr>
-  <tr>
-    <td>set more security for spending &+ approveall = true</td>
-  </tr>
-  
-  <tr>
-    <td>
-    ver 3 => time trail
-    </td>
-  </tr>
-  <tr>
-    <td>spend releasing/unlock aftr 1 week</td>
-  </tr>
-  
-  <tr>
-    <td>
-    Trade NFT
-    </td>
-  </tr>
-  <tr>
-    <td>simple list & sell/buy nft smartcontract. like a market/shop but controled by owner/artist/collector !</td>
-  </tr>
-</table>
+
+- ver 1 => public users- [here](https://github.com/mosi-sol/NftWallet/tree/main/safe%20wallet%20v0.1) 
+- - just approve to this contract for receive
+- ver 2 => private users- [here](https://github.com/mosi-sol/NftWallet/tree/main/safe%20wallet%20v0.2) 
+- - set more security for spending &+ approveall = true
+- ver 3 => time trail- [here](https://github.com/mosi-sol/NftWallet/tree/main/safe%20wallet%20v0.3) 
+- - spend releasing/unlock aftr 1 week
+- Trade NFT- [here](https://github.com/mosi-sol/NftWallet/tree/main/TradeNft) 
+- - <simple list & sell/buy nft smartcontract. like a market/shop but controled by owner/artist/collector !
+- nft vault & decentraliz market - [here](https://github.com/mosi-sol/NftWallet/tree/main/DecentralizedVaultAndMarket) 
   
 ##
 
